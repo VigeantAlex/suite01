@@ -29,3 +29,6 @@ addition(98766, 345678);
 
 //  écrire votre code sous ce commentaire
 
+function addition(arg1, arg2){
+    return arg1 + arg2;
+}
